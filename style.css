@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("fundo.jpg");
+}
+
+.chemistry {
+    font-family: 'Just Another Hand';
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+.quimica h3 {
+    font-family: 'Poiret One';
+    font-size: 100px;
+}
+.quimica p {
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: justify;
+    padding: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.quimica figure  {
+    margin-left: 29%;
+    margin-top: -50px;
+}
+
+div#interface {
+    width: 90%;
+    background-color: white;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px;
+}
